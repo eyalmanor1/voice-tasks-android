@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Voice Tasks</string>
+    <string name="record">● הקלט</string>
+    <string name="stop">■ עצור</string>
+    <string name="ready">מוכן</string>
+    <string name="recording">מקליט…</string>
+</resources>
