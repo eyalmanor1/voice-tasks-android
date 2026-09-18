@@ -5,3 +5,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "VoiceTasks"
 include(":app")
+include(":songpoetry")
